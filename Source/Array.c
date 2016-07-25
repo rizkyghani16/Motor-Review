@@ -24,6 +24,7 @@ main(){
 		printf("\n+=================================================+\n");
 		printf("\nSpesifikasi :\n\n");
 		
+		printf("MESIN\n",motor[pilihan]);
 		
 	system("pause");
 }
