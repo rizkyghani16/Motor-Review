@@ -37,6 +37,9 @@ main(){
 		printf("Ignition system : TCI (digital)\n",motor[pilihan]);
 		printf("Starter system : Electric\n",motor[pilihan]);
 		printf("Transmission system : Constant Mesh, 6-speed\n",motor[pilihan]);
+		printf("Final transmission : Chain\n\n",motor[pilihan]);
+		
+		printf("CHASSIS\n",motor[pilihan]);
 		
 	system("pause");
 }
