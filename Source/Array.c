@@ -35,6 +35,7 @@ main(){
 		printf("Fuel system : Electronic Fuel Injection\n",motor[pilihan]);
 		printf("Clutch type : Wet, multiple-disc coil spring\n",motor[pilihan]);
 		printf("Ignition system : TCI (digital)\n",motor[pilihan]);
+		printf("Starter system : Electric\n",motor[pilihan]);
 		
 	system("pause");
 }
