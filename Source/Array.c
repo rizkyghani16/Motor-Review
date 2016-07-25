@@ -52,6 +52,13 @@ main(){
 		printf("Jarak Sumbu Roda : 54.1 in\n",motor[pilihan]);
 		printf("Kapasitas Tangki : 17 liter\n\n",motor[pilihan]);
 	}
+	else if(pilihan == 1){
+		system("cls");
+		system("color 0c");
+		printf("+=================================================+\n");
+		printf("Motor yg anda pilih adalah : %s",motor[pilihan]);
+		printf("\n+=================================================+\n");
+		printf("\nReview :\n\n");
 		
 	system("pause");
 }
