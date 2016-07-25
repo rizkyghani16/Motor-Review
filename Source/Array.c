@@ -120,5 +120,11 @@ main(){
 		printf("Tires / Front : 120mm (4.72in)\n",motor[pilihan]);
 		printf("Tires / Rear : 130mm (5.12in)\n\n",motor[pilihan]);
 		
+		printf("DIMENSI\n",motor[pilihan]);
+		printf("Panjang 825mm (32.48in) x Lebar 188kg(414,5lb) x Tinggi 1,125 mm\n",motor[pilihan]);
+		printf("Jarak Sumbu Roda : 1,455 mm\n",motor[pilihan]);
+		printf("Kapasitas Tangki : 17 Liter\n\n",motor[pilihan]);
+	}
+		
 	system("pause");
 }
