@@ -48,6 +48,10 @@ main(){
 		printf("Tires / Rear : 180/55-ZR17 73W\n\n",motor[pilihan]);
 		
 		printf("DIMENSI\n",motor[pilihan]);
+		printf("Panjang 80.3 in x Lebar 27.8 in x Tinggi 43.1 in\n",motor[pilihan]);
+		printf("Jarak Sumbu Roda : 54.1 in\n",motor[pilihan]);
+		printf("Kapasitas Tangki : 17 liter\n\n",motor[pilihan]);
+	}
 		
 	system("pause");
 }
