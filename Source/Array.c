@@ -32,6 +32,8 @@ main(){
 		printf("Maximum power : 91.0 kW (123.7PS) @ 14,500 rpm\n",motor[pilihan]);
 		printf("Maximum torque : 65.7 Nm (6.7 kg-m) @ 10,500 rpm\n",motor[pilihan]);
 		printf("Lubrication system : Wet sump\n",motor[pilihan]);
+		printf("Fuel system : Electronic Fuel Injection\n",motor[pilihan]);
+		
 		
 	system("pause");
 }
