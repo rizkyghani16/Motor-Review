@@ -18,6 +18,7 @@ main(){
 	
 	if(pilihan == 0){
 		system("cls");
+		system("color 0a");
 		printf("+=================================================+\n");
 		printf("Motor yang anda pilih adalah : %s",motor[pilihan]);
 		printf("\n+=================================================+\n");
