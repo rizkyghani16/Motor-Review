@@ -40,6 +40,9 @@ main(){
 		printf("Final transmission : Chain\n\n",motor[pilihan]);
 		
 		printf("CHASSIS\n",motor[pilihan]);
+		printf("Suspension / Front : 41mm inverted fork; 4-way adjustable, 4.5-in travel\n",motor[pilihan]);
+		printf("Suspension / Rear : Single shock; 4-way adjustable, 4.7-in travel\n",motor[pilihan]);
+		printf("Brakes / Front Dual : 310mm floating disc; radial-mount 4-piston calipers\n",motor[pilihan]);
 		
 	system("pause");
 }
