@@ -60,5 +60,20 @@ main(){
 		printf("\n+=================================================+\n");
 		printf("\nReview :\n\n");
 		
+		printf("MESIN\n",motor[pilihan]);
+		printf("Engine type : DOHC, 16 valves Liquid-cooled, 4-stroke In-Line Four\n",motor[pilihan]);
+		printf("Displacement : 998 cc\n",motor[pilihan]);
+		printf("Bore x stroke : 76.0 x 55.0 mm\n",motor[pilihan]);
+		printf("Compression ratio : 8.5:1\n",motor[pilihan]);
+		printf("Maximum power : 147.2 kW {200 PS} / 10,000 rpm\n",motor[pilihan]);
+		printf("Maximum torque : 140.4 N.m {14.3 kgf.m} / 10,000 rpm\n",motor[pilihan]);
+		printf("Lubrication system : Wet sump\n",motor[pilihan]);
+		printf("Fuel system : Fuel injection: 50 mm x 4 with dual injection\n",motor[pilihan]);
+		printf("Clutch type : Wet, multiple-disc coil spring\n",motor[pilihan]);
+		printf("Ignition system : TCI (digital)\n",motor[pilihan]);
+		printf("Starter system : Electric\n",motor[pilihan]);
+		printf("Transmission system : Constant Mesh, 6-speed\n",motor[pilihan]);
+		printf("Final transmission : Chain\n\n",motor[pilihan]);
+		
 	system("pause");
 }
