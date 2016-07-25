@@ -112,5 +112,13 @@ main(){
 		printf("Transmission system : 6 speed\n",motor[pilihan]);
 		printf("Final transmission : Chain 525; Front sprocket 15; Rear sprocket 39\n\n",motor[pilihan]);
 		
+		printf("CHASSIS\n",motor[pilihan]);
+		printf("Suspension / Front : Marzocchi 50mm pressurized and fully adjustable usd fork with hard anodized aluminum lightweight slider\n",motor[pilihan]);
+		printf("Suspension / Rear : Fully adjustable Sachs unit. Adjustable linkage: Progressive/flat. Aluminum single-sided swingarm.\n",motor[pilihan]);
+		printf("Brakes / Front Dual : 2 x 330mm semi-floating discs, radially mounted Brembo Monobloc M50 4-piston callipers ABS optional +2.5kg (+5.5lb)\n",motor[pilihan]);
+		printf("Brakes / Rear : 245mm disc, 2-piston calliper\n",motor[pilihan]);
+		printf("Tires / Front : 120mm (4.72in)\n",motor[pilihan]);
+		printf("Tires / Rear : 130mm (5.12in)\n\n",motor[pilihan]);
+		
 	system("pause");
 }
