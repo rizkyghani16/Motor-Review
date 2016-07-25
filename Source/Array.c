@@ -97,5 +97,20 @@ main(){
 		printf("\n+=================================================+\n");
 		printf("\nReview :\n\n");
 		
+		printf("MESIN\n",motor[pilihan]);
+		printf("Engine type : Superquadro: L-twin cylinder, 4 valve per cylinder, Desmodromic, liquid cooled\n",motor[pilihan]);
+		printf("Displacement : 1198cc\n",motor[pilihan]);
+		printf("Bore x stroke : 112x60.8mm\n",motor[pilihan]);
+		printf("Compression ratio : 12.5:1\n",motor[pilihan]);
+		printf("Maximum power : 143 kW (195 hp) @ 10,750 rpm\n",motor[pilihan]);
+		printf("132 Nm (98.1 lb-ft) @ 9,000 rpm\n",motor[pilihan]);
+		printf("Lubrication system : Wet sump\n",motor[pilihan]);
+		printf("Fuel system : Mitsubishi electronic fuel injection system. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.\n",motor[pilihan]);
+		printf("Clutch type : Slipper and self-servo wet multiplate clutch with hydraulic control\n",motor[pilihan]);
+		printf("Ignition system : TCI (digital)\n",motor[pilihan]);
+		printf("Starter system : Electric\n",motor[pilihan]);
+		printf("Transmission system : 6 speed\n",motor[pilihan]);
+		printf("Final transmission : Chain 525; Front sprocket 15; Rear sprocket 39\n\n",motor[pilihan]);
+		
 	system("pause");
 }
