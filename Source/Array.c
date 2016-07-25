@@ -12,5 +12,9 @@ main(){
 	for(daftar = 0 ; daftar <= 2 ; daftar++){
 		printf("%d. %s\n",daftar,motor[daftar]);
 	}
+	
+	printf("\nMasukan Nomor Motor : ");
+	scanf("%d",&pilihan);
+	
 	system("pause");
 }
