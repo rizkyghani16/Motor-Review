@@ -33,6 +33,7 @@ main(){
 		printf("Maximum torque : 65.7 Nm (6.7 kg-m) @ 10,500 rpm\n",motor[pilihan]);
 		printf("Lubrication system : Wet sump\n",motor[pilihan]);
 		printf("Fuel system : Electronic Fuel Injection\n",motor[pilihan]);
+		printf("Clutch type : Wet, multiple-disc coil spring\n",motor[pilihan]);
 		
 		
 	system("pause");
