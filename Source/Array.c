@@ -28,6 +28,7 @@ main(){
 		printf("Engine type : liquid-cooled, 4-stroke, DOHC, forward-inclined parallel 4-cylinder, 4-valves\n",motor[pilihan]);
 		printf("Displacement : 599cc\n",motor[pilihan]);
 		printf("Bore x stroke : 67.0 mm x 42.5 mm\n",motor[pilihan]);
+		printf("Compression ratio : 13.1 : 1\n",motor[pilihan]);
 		
 	system("pause");
 }
