@@ -25,6 +25,7 @@ main(){
 		printf("\nSpesifikasi :\n\n");
 		
 		printf("MESIN\n",motor[pilihan]);
+		printf("Engine type : liquid-cooled, 4-stroke, DOHC, forward-inclined parallel 4-cylinder, 4-valves\n",motor[pilihan]);
 		
 	system("pause");
 }
