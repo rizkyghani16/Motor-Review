@@ -34,7 +34,7 @@ main(){
 		printf("Lubrication system : Wet sump\n",motor[pilihan]);
 		printf("Fuel system : Electronic Fuel Injection\n",motor[pilihan]);
 		printf("Clutch type : Wet, multiple-disc coil spring\n",motor[pilihan]);
-		
+		printf("Ignition system : TCI (digital)\n",motor[pilihan]);
 		
 	system("pause");
 }
