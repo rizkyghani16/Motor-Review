@@ -83,5 +83,11 @@ main(){
 		printf("Tires / Front : 120/70ZR17M/C (58W)\n",motor[pilihan]);
 		printf("Tires / Rear : 200/55ZR17M/C (78W)\n\n",motor[pilihan]);
 		
+		printf("DIMENSI\n",motor[pilihan]);
+		printf("Panjang 2,085 mm x Lebar 770 mm x Tinggi 1,125 mm\n",motor[pilihan]);
+		printf("Jarak Sumbu Roda : 1,455 mm\n",motor[pilihan]);
+		printf("Kapasitas Tangki : 17 Liter\n\n",motor[pilihan]);
+	}
+		
 	system("pause");
 }
