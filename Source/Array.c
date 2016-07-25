@@ -45,6 +45,7 @@ main(){
 		printf("Brakes / Front Dual : 310mm floating disc; radial-mount 4-piston calipers\n",motor[pilihan]);
 		printf("Brakes / Rear : 220mm disc; single-piston caliper\n",motor[pilihan]);
 		printf("Tires / Front : 120/70-ZR17 58W\n",motor[pilihan]);
+		printf("Tires / Rear : 180/55-ZR17 73W\n\n",motor[pilihan]);
 		
 	system("pause");
 }
