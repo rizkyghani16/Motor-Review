@@ -75,5 +75,13 @@ main(){
 		printf("Transmission system : Constant Mesh, 6-speed\n",motor[pilihan]);
 		printf("Final transmission : Chain\n\n",motor[pilihan]);
 		
+		printf("CHASSIS\n",motor[pilihan]);
+		printf("Suspension / Front : 43 mm inverted fork\n",motor[pilihan]);
+		printf("Suspension / Rear : New Uni-Trak with gas-charged shock\n",motor[pilihan]);
+		printf("Brakes / Front Dual : Dual semi-floating 330 mm discs\n",motor[pilihan]);
+		printf("Brakes / Rear : Single 250 mm disc\n",motor[pilihan]);
+		printf("Tires / Front : 120/70ZR17M/C (58W)\n",motor[pilihan]);
+		printf("Tires / Rear : 200/55ZR17M/C (78W)\n\n",motor[pilihan]);
+		
 	system("pause");
 }
