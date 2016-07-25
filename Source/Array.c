@@ -88,6 +88,14 @@ main(){
 		printf("Jarak Sumbu Roda : 1,455 mm\n",motor[pilihan]);
 		printf("Kapasitas Tangki : 17 Liter\n\n",motor[pilihan]);
 	}
+	
+	else if(pilihan == 2){
+		system("cls");
+		system("color 09");
+		printf("+=================================================+\n");
+		printf("Motor yg anda pilih adalah : %s",motor[pilihan]);
+		printf("\n+=================================================+\n");
+		printf("\nReview :\n\n");
 		
 	system("pause");
 }
