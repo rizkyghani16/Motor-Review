@@ -31,7 +31,7 @@ main(){
 		printf("Compression ratio : 13.1 : 1\n",motor[pilihan]);
 		printf("Maximum power : 91.0 kW (123.7PS) @ 14,500 rpm\n",motor[pilihan]);
 		printf("Maximum torque : 65.7 Nm (6.7 kg-m) @ 10,500 rpm\n",motor[pilihan]);
-		
+		printf("Lubrication system : Wet sump\n",motor[pilihan]);
 		
 	system("pause");
 }
