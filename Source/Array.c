@@ -16,5 +16,13 @@ main(){
 	printf("\nMasukan Nomor Motor : ");
 	scanf("%d",&pilihan);
 	
+	if(pilihan == 0){
+
+		printf("+=================================================+\n");
+		printf("Motor yang anda pilih adalah : %s",motor[pilihan]);
+		printf("\n+=================================================+\n");
+		printf("\nSpesifikasi :\n\n");
+		
+		
 	system("pause");
 }
