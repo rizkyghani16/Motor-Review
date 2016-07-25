@@ -26,6 +26,7 @@ main(){
 		
 		printf("MESIN\n",motor[pilihan]);
 		printf("Engine type : liquid-cooled, 4-stroke, DOHC, forward-inclined parallel 4-cylinder, 4-valves\n",motor[pilihan]);
+		printf("Displacement : 599cc\n",motor[pilihan]);
 		
 	system("pause");
 }
