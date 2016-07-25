@@ -47,5 +47,7 @@ main(){
 		printf("Tires / Front : 120/70-ZR17 58W\n",motor[pilihan]);
 		printf("Tires / Rear : 180/55-ZR17 73W\n\n",motor[pilihan]);
 		
+		printf("DIMENSI\n",motor[pilihan]);
+		
 	system("pause");
 }
